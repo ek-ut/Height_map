@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Iraq_mountains.png</file>
+    </qresource>
+</RCC>
